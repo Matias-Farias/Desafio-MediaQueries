@@ -112,7 +112,7 @@ footer {
     color: #fff;
 }
 
-@media screen and (width >= 576px) {
+@media screen and (width >= 992px) {
     body {
         display: grid;
         grid-template-areas: 
